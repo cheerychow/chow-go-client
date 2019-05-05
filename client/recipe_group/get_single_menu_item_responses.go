@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/cheerychow/go-client/models"
+	models "github.com/cheerychow/chow-go-client/models"
 )
 
 // GetSingleMenuItemReader is a Reader for the GetSingleMenuItem structure.

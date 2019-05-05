@@ -17,7 +17,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/cheerychow/go-client/models"
+	models "github.com/cheerychow/chow-go-client/models"
 )
 
 // NewAccountSigninParams creates a new AccountSigninParams object

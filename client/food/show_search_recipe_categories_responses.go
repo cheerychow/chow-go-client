@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/cheerychow/go-client/models"
+	models "github.com/cheerychow/chow-go-client/models"
 )
 
 // ShowSearchRecipeCategoriesReader is a Reader for the ShowSearchRecipeCategories structure.

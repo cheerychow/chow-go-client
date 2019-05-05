@@ -13,7 +13,7 @@ import (
 
 	strfmt "github.com/go-openapi/strfmt"
 
-	models "github.com/cheerychow/go-client/models"
+	models "github.com/cheerychow/chow-go-client/models"
 )
 
 // AccountInfoReader is a Reader for the AccountInfo structure.
